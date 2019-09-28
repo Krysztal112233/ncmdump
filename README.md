@@ -3,18 +3,21 @@ ncmdump
 此软件遵守GPLv3进行分发，这和依赖使用的apache协议是互相兼容的。
 
 这是一个用golang实现的ncm转换程序，使用了"github.com/yoki123/ncmdump"作为依赖
+
 编译快速，简单，转换也出人意料的简单，快速。您只需要安装好golang环境，随后
 
 ```shell
 go get -v github.com/SUIBING112233/ncmdump
 ```
 如果您在国内的话，推荐打开网络代理进行这一个步骤
+
 然后切换到本项目的cmd文件夹使用
 
 ```shell
 go build ncmdump.go
 ```
 即可在当前目录输出编译好的程序。在这之后您可以把它放在系统的PATH里面，这样就可以随时调用了
+
 他支持超多文件队列转换
 
 用法：
