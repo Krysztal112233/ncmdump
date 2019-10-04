@@ -1,10 +1,11 @@
+package main
+
 /*
  * @Author: SUIBING112233
  * @Date: 2019-09-22 09:57:13
- * @LastEditTime: 2019-09-22 09:57:13
+ * @LastEditTime: 2019-10-04 10:24:45
  * @WebSite: https://blog.icedtech.xyz
  */
-package main
 
 import (
 	"fmt"
@@ -79,6 +80,7 @@ func main() {
 		}
 		fmt.Printf("[%d|%d]...%s...", k+1, len(fp), v.fp.Name())
 		err = ioutil.WriteFile(v.path, v.after, 0666)
+		fp[k].after = nil
 		if err != nil {
 			fmt.Println(err.Error(), "fail")
 		}
