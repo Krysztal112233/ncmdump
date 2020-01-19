@@ -1,11 +1,13 @@
 <!--
  * @Author: SUIBING112233
  * @Date: 2019-11-24 02:00:18
- * @LastEditTime: 2019-11-24 02:02:57
+ * @LastEditTime : 2020-01-19 12:46:50
  * @WebSite: https://blog.icedtech.xyz
  -->
 ncmdump
 ===
+
+[![CircleCI](https://circleci.com/gh/SUIBING112233/ncmdump.svg?style=svg)](https://circleci.com/gh/SUIBING112233/ncmdump)
 
 介绍
 ==== 
