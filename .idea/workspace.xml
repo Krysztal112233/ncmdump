@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d05556e-90c6-45b6-a5c9-fb0fd020c2ce" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/lib/go-1.14" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1gkfJa9Ci6bVcwwC4vF8MIsPJQZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ncmdump" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ncmdump" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ncmdump" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go 构建.go build github.com/SUIBING112233/ncmdump/ncmdump">
+    <configuration name="go build github.com/SUIBING112233/ncmdump/ncmdump" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="ncmdump" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="'$USER_HOME$/Desktop/Music/Alan Walker - Fade.flac' '$USER_HOME$/Desktop/Music/Alan Walker - Fade.ncm' '$USER_HOME$/Desktop/Music/Alan Walker - The Spectre.flac' '$USER_HOME$/Desktop/Music/Alan Walker - The Spectre.ncm' '$USER_HOME$/Desktop/Music/Alan Walker Ava Max - Alone, Pt II.mp3' '$USER_HOME$/Desktop/Music/Alan Walker Ava Max - Alone, Pt. II.ncm' '$USER_HOME$/Desktop/Music/Alan Walker Iselin Solheim - Faded.flac' '$USER_HOME$/Desktop/Music/Alan Walker Iselin Solheim - Faded.ncm' '$USER_HOME$/Desktop/Music/Alan Walker Noah Cyrus Digital Farm Animals - All Falls Down.flac' '$USER_HOME$/Desktop/Music/Alan Walker Noah Cyrus Digital Farm Animals - All Falls Down.ncm' '$USER_HOME$/Desktop/Music/Alan Walker Noonie Bao - Alone.flac' '$USER_HOME$/Desktop/Music/Alan Walker Noonie Bao - Alone.ncm' '$USER_HOME$/Desktop/Music/Anjulie TheFatRat - Fly Away.flac' '$USER_HOME$/Desktop/Music/Anjulie TheFatRat - Fly Away.ncm' '$USER_HOME$/Desktop/Music/Apashe JayKode - Annihilation.flac' '$USER_HOME$/Desktop/Music/Apashe JayKode - Annihilation.ncm' '$USER_HOME$/Desktop/Music/Deorro - Five Hours.flac' '$USER_HOME$/Desktop/Music/Deorro - Five Hours.ncm' " />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/ncmdump/main.go" />
+      <package value="github.com/SUIBING112233/ncmdump/ncmdump" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="github.com/SUIBING112233/ncmdump/ncmdump 中的 TestMakePool" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="ncmdump" />
+      <working_directory value="$PROJECT_DIR$/ncmdump" />
+      <parameters value="'$USER_HOME$/Desktop/Music/Alan Walker - Fade.ncm' '$USER_HOME$/Desktop/Music/Alan Walker - The Spectre.ncm' '$USER_HOME$/Desktop/Music/Alan Walker Ava Max - Alone, Pt. II.ncm' '$USER_HOME$/Desktop/Music/Alan Walker Iselin Solheim - Faded.ncm' '$USER_HOME$/Desktop/Music/Alan Walker Noah Cyrus Digital Farm Animals - All Falls Down.ncm' '$USER_HOME$/Desktop/Music/Alan Walker Noonie Bao - Alone.ncm' '$USER_HOME$/Desktop/Music/Anjulie TheFatRat - Fly Away.ncm' '$USER_HOME$/Desktop/Music/Apashe JayKode - Annihilation.ncm' '$USER_HOME$/Desktop/Music/Deorro - Five Hours.ncm' '$USER_HOME$/Desktop/Music/Dripice - Escape.ncm' '$USER_HOME$/Desktop/Music/Enya - Echoes In Rain.ncm' '$USER_HOME$/Desktop/Music/Everen Maxwell - Battle for Eternity (feat. Ace Aura).ncm' '$USER_HOME$/Desktop/Music/Everen Maxwell - We Rise.ncm' '$USER_HOME$/Desktop/Music/Faux Tales - Beacon.ncm' '$USER_HOME$/Desktop/Music/Future World Music - Victory of Life.ncm' '$USER_HOME$/Desktop/Music/Geoplex - Resplendent.ncm' '$USER_HOME$/Desktop/Music/Hoaprox - #Lov3 #Ngẫu Hứng.ncm' '$USER_HOME$/Desktop/Music/KOVEN. - Never Have I Felt This.ncm' '$USER_HOME$/Desktop/Music/Lenka - Trouble Is A Friend.ncm' '$USER_HOME$/Desktop/Music/Maksim Mrvica - Croatian Rhapsody.ncm' '$USER_HOME$/Desktop/Music/OMFG - Hello.ncm' '$USER_HOME$/Desktop/Music/Pixie Paris - Es Rappelt Im Karton.ncm' '$USER_HOME$/Desktop/Music/Starset - Monster.ncm' '$USER_HOME$/Desktop/Music/Starset - Unbecoming.ncm' '$USER_HOME$/Desktop/Music/The Chainsmokers Coldplay - Something Just Like This.ncm' '$USER_HOME$/Desktop/Music/TheFatRat - Prelude.ncm' '$USER_HOME$/Desktop/Music/TheFatRat - Rise Up.ncm' '$USER_HOME$/Desktop/Music/TheFatRat JJD - Prelude (VIP Edit).ncm' '$USER_HOME$/Desktop/Music/TheFatRat Laura Brehm - Monody (Radio Edit).ncm' '$USER_HOME$/Desktop/Music/Thomas Bergersen - Fearless.ncm' '$USER_HOME$/Desktop/Music/Tobu - Mesmerize.ncm' " />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/SUIBING112233/ncmdump/ncmdump" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^TestMakePool$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go 构建.go build github.com/SUIBING112233/ncmdump/ncmdump" />
+      <item itemvalue="Go 测试.github.com/SUIBING112233/ncmdump/ncmdump 中的 TestMakePool" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 测试.github.com/SUIBING112233/ncmdump/ncmdump 中的 TestMakePool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d05556e-90c6-45b6-a5c9-fb0fd020c2ce" name="默认的" comment="" />
+      <created>1598663441193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598663441193</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599050510682">
+      <screen x="0" y="24" width="1920" height="1020" />
+    </state>
+    <state x="424" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1920.1020@0.24.1920.1020" timestamp="1599050510682" />
+    <state x="891" y="240" key="#xdebugger.XInspectDialog" timestamp="1599056384650">
+      <screen x="0" y="24" width="1920" height="1020" />
+    </state>
+    <state x="891" y="240" key="#xdebugger.XInspectDialog/0.24.1920.1020@0.24.1920.1020" timestamp="1599056384650" />
+    <state width="692" height="567" key="DebuggerActiveHint" timestamp="1599059087919">
+      <screen x="0" y="24" width="1920" height="1020" />
+    </state>
+    <state width="692" height="567" key="DebuggerActiveHint/0.24.1920.1020@0.24.1920.1020" timestamp="1599059087919" />
+    <state width="1870" height="330" key="GridCell.Tab.0.bottom" timestamp="1599120057305">
+      <screen x="0" y="24" width="1920" height="1020" />
+    </state>
+    <state width="1870" height="330" key="GridCell.Tab.0.bottom/0.24.1920.1020@0.24.1920.1020" timestamp="1599120057305" />
+    <state width="1870" height="330" key="GridCell.Tab.0.center" timestamp="1599120057304">
+      <screen x="0" y="24" width="1920" height="1020" />
+    </state>
+    <state width="1870" height="330" key="GridCell.Tab.0.center/0.24.1920.1020@0.24.1920.1020" timestamp="1599120057304" />
+    <state width="1870" height="330" key="GridCell.Tab.0.left" timestamp="1599120057304">
+      <screen x="0" y="24" width="1920" height="1020" />
+    </state>
+    <state width="1870" height="330" key="GridCell.Tab.0.left/0.24.1920.1020@0.24.1920.1020" timestamp="1599120057304" />
+    <state width="1870" height="330" key="GridCell.Tab.0.right" timestamp="1599120057305">
+      <screen x="0" y="24" width="1920" height="1020" />
+    </state>
+    <state width="1870" height="330" key="GridCell.Tab.0.right/0.24.1920.1020@0.24.1920.1020" timestamp="1599120057305" />
+    <state width="1870" height="267" key="GridCell.Tab.1.bottom" timestamp="1599064505215">
+      <screen x="0" y="24" width="1920" height="1020" />
+    </state>
+    <state width="1870" height="267" key="GridCell.Tab.1.bottom/0.24.1920.1020@0.24.1920.1020" timestamp="1599064505215" />
+    <state width="1870" height="267" key="GridCell.Tab.1.center" timestamp="1599064505215">
+      <screen x="0" y="24" width="1920" height="1020" />
+    </state>
+    <state width="1870" height="267" key="GridCell.Tab.1.center/0.24.1920.1020@0.24.1920.1020" timestamp="1599064505215" />
+    <state width="1870" height="267" key="GridCell.Tab.1.left" timestamp="1599064505215">
+      <screen x="0" y="24" width="1920" height="1020" />
+    </state>
+    <state width="1870" height="267" key="GridCell.Tab.1.left/0.24.1920.1020@0.24.1920.1020" timestamp="1599064505215" />
+    <state width="1870" height="267" key="GridCell.Tab.1.right" timestamp="1599064505215">
+      <screen x="0" y="24" width="1920" height="1020" />
+    </state>
+    <state width="1870" height="267" key="GridCell.Tab.1.right/0.24.1920.1020@0.24.1920.1020" timestamp="1599064505215" />
+    <state x="440" y="244" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599056903720">
+      <screen x="0" y="24" width="1920" height="1020" />
+    </state>
+    <state x="440" y="244" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.24.1920.1020@0.24.1920.1020" timestamp="1599056903720" />
+    <state x="660" y="216" width="599" height="636" key="find.popup" timestamp="1599049625620">
+      <screen x="0" y="24" width="1920" height="1020" />
+    </state>
+    <state x="660" y="216" width="599" height="636" key="find.popup/0.24.1920.1020@0.24.1920.1020" timestamp="1599049625620" />
+    <state x="623" y="248" width="672" height="678" key="search.everywhere.popup" timestamp="1599042734780">
+      <screen x="0" y="24" width="1920" height="1020" />
+    </state>
+    <state x="623" y="248" width="672" height="678" key="search.everywhere.popup/0.24.1920.1020@0.24.1920.1020" timestamp="1599042734780" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
